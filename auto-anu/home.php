@@ -1,7 +1,7 @@
 <?php
 
-$username = "x";
-$token = "x";
+$username = "";
+$token = "";
 
 $n = rand(1,20);
 
